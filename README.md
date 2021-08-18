@@ -15,10 +15,10 @@ You can click the Preview link to take a look at your changes.
 3. 速成JS以及DOM 
 4. 看了一半 javaScript DOM 编程艺术
 5. JS做了15个小项目
+6. 看计算机网络（自顶向下）
+7. 学习VUE并且一边看看JavaScript 高级程序设计以及css 揭秘
 
 
 接下来的计划
-1. 看书 JavaScript 高级程序设计以及css 揭秘
-2. 穿插着继续练习一些小项目
-3. 看一点计算机网络
+
 
