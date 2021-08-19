@@ -4,7 +4,7 @@
 - 💞️ I’m looking forward to an online job
 - 📫 How to reach me 1378984560@qq.com
 
-一个最优化方向的选手，但是为了找工作自学点前端
+一个最优化方向的选手，但是为了找工作自学点前端，如果有线上赚钱的机会请带带我
 个人学习路线（如有不合理之处，各位指点一下，纯自学）
 1. 速成HTML+CSS 
 2. HTML+CSS 做20+小项目
