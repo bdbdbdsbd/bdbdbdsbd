@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bdbdbdsbd
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Games
+- 🌱 I’m currently learning Fontend
+- 💞️ I’m looking forward to an online job
 - 📫 How to reach me 1378984560@qq.com
 
 一个最优化方向的选手，但是为了找工作自学点前端
