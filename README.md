@@ -21,8 +21,7 @@
 13. 学习Node.js以及MySQL(了解为主，能进行crud)
 14. 学习flask以及Python(了解为主，能进行接口调用、部署)
 15. 学习typeScript(21年8月-9月)
-16. 学习uni-app/taro/react 其中一个(21年10月-11月)
-17. 做uni-app/taro/react 项目(21年10月-11月)
-17. 学习Vue/react源码(21年12月-22年3月)
-18. 准备暑期实习的基础(22年2月-22年5月)
+16. 学习uni-app/taro/react 其中一个(未完成)
+17. 学习Vue/react源码(未完成)
+18. 准备暑期实习的基础(未完成)
 
